@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>deployment</id>
+        <name>Internal Releases1</name>
         <url>http://13.233.91.156:8081/nexus/content/repositories/Hello-World/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>deployment</id>
+        <name>Internal Releases</name>
         <url>http://13.233.91.156:8081/nexus/content/repositories/repo2/</url>
     </snapshotRepository>
 </distributionManagement>
