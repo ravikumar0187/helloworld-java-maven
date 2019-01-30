@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases1</name>
-        <url>http://13.233.91.156:8081/nexus/content/repositories/Hello-World/</url>
+        <url>http://13.127.131.221:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://13.233.91.156:8081/nexus/content/repositories/repo2/</url>
+        <url>http://13.127.131.221:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
