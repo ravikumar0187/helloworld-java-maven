@@ -50,4 +50,4 @@ For any questions - Please email me at DevOps@RajeshKumar.xyz
     </mirror>
     
     =========================
-    ## changes made for JIRA CIC-1
+    ## changes made for JIRA FIR-1
